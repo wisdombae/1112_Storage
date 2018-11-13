@@ -3,4 +3,8 @@
     <string name="editText">Inner Circle</string>
     <string name="button1">File Read From Reader</string>
     <string name="button2">File Write from Inner</string>
+    <string name="button3">File read from private outter</string>
+    <string name="button4">File write from private outter</string>
+    <string name="button5">File read from public outter</string>
+    <string name="button6">File write from public outter</string>
 </resources>
